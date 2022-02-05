@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="registered.xsd" type="2147255_WD_CAT2_05.02.2022/xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <?xml-stylesheet href="registered.xslt" type="xsl"?>
 <christ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nostu-NamespaceSchemaLocation="registered.xsd">
     <computer-science>
